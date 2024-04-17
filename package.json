@@ -1,0 +1,20 @@
+{
+  "name": "ticwic-todolist",
+  "version": "1.0.0",
+  "description": "It is a tool designed to help individuals manage tasks, prioritize activities, and stay organized in their daily lives. ",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Talha",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/jquery": "^3.5.29"
+  }
+}
